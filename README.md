@@ -92,4 +92,7 @@ The CatBoost model was used to generate SHAP values, which then were used to stu
 ***
 
 ## Proof of submission
-![from drivendata.org](proof.png)
+
+DrivenData username: moracse_170307M
+
+![submission](https://github.com/Skogul1997/Pump-it-Up-Data-Mining-the-Water-Table/blob/main/proof.PNG)
